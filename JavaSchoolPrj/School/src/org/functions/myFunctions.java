@@ -6,5 +6,10 @@ public class myFunctions {
     {
         return x +y ;
     }
+    //Branch Billu 528
+    public static int sumOftwo(int x, int y, int z)
+    {
+        return x +y + z ;
+    }
 }
 
